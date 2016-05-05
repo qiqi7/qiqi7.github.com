@@ -5,5 +5,5 @@ date: 2016-05-05
 comments: true
 categories:
 ---
-<h1>{{ page.title }}</h1>
-
+Welcome to my blog...
+This is my first post.
