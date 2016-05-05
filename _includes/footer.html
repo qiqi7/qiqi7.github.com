@@ -3,9 +3,9 @@
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="older"><span class="mega-octicon octicon-playback-rewind" style="min-width: 32px;"></span></a>
-  {% else %}
     <span class="next"><span class="mega-octicon octicon-playback-rewind" style="min-width: 32px;"></span></span>
+  {% else %}
+    <a href="/page{{paginator.next_page}}" class="older"><span class="mega-octicon octicon-playback-rewind" style="min-width: 32px;"></span></a>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
