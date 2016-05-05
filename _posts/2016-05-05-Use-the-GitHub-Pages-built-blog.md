@@ -1,3 +1,11 @@
+---
+layout: post
+title: "First Post"
+date: 2016-05-05
+comments: true
+categories:
+---
+
 #使用GitHub Pages的一些参考
 
 [一步步在GitHub上创建博客主页-最新版](http://www.pchou.info/web-build/2014/07/04/build-github-blog-page-08.html)
