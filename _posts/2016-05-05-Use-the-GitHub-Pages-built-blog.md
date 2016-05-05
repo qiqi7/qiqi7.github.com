@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "使用Github Pages"
 date: 2016-05-05
 comments: true
 categories:
